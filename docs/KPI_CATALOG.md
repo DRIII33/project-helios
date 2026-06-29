@@ -1,23 +1,20 @@
 # Project Helios Corporate KPI Catalog
 
-## Metric 1: Aggregate Funnel Conversion Yield %
+## Metric 1: Aggregate Funnel Conversion Yield (%)
 
 ### Business Intent
 Quantifies the top-to-bottom efficiency of the talent acquisition pipeline, isolating how effectively raw interest converts into signed talent.
 
-### Mathematical Formula
+### Formula
 
-\[
-\text{Funnel Yield \%} =
-\left(
-\frac{
-\text{Count Distinct Candidates Achieving 'Hired'}
-}{
-\text{Count Distinct Total Candidates Entering System}
-}
-\right)
-\times 100
-\]
+```text
+Funnel Yield (%) =
+(
+  Count Distinct Candidates Achieving "Hired"
+  ÷
+  Count Distinct Total Candidates Entering System
+) × 100
+```
 
 ### Stakeholder Consumer Group
 - Chief Human Resources Officer (CHRO)
@@ -30,18 +27,21 @@ Quantifies the top-to-bottom efficiency of the talent acquisition pipeline, isol
 ### Business Intent
 Pinpoints where candidates encounter operational drag inside specific interviewing tracks, illuminating team-specific internal barriers.
 
-### Mathematical Formula
+### Formula
 
-\[
-\text{Departmental Aging} =
-\frac{1}{N}
-\sum_{i=1}^{N}
-\left(
-\text{Timestamp}_{\text{Current Stage Entry}}
--
-\text{Timestamp}_{\text{Prior Stage Entry}}
-\right)
-\]
+```text
+Departmental Aging =
+(1 / N) × Σ(
+  Timestamp(Current Stage Entry)
+  -
+  Timestamp(Prior Stage Entry)
+)
+```
+
+Where:
+
+- **N** = Total candidate observations included in the calculation
+- **Σ** = Summation across all observations
 
 ### Stakeholder Consumer Group
 - Engineering Directors
