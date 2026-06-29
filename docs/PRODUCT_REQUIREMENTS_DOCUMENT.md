@@ -190,7 +190,7 @@ Our integrated statistical modeling revealed key insights about the recruitment 
 
 ## Local Workspace Environment Deployment Blueprint
 To spin up the data pipeline and execute validation checks locally, run these commands in your terminal:
-
+---
 ```bash
 # 1. Initialize virtual environment and pull strict pinned dependencies
 python3 -m venv venv
@@ -207,7 +207,7 @@ python -m src.quality_engine
 python -m src.statistical_analysis
 
 ```
-
+---
 ## Data Warehouse Architecture Summary
 
 The analytics warehouse shifts from raw operational inputs to a clean, highly structured star schema designed for fast, efficient reporting:
