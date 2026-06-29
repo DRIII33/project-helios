@@ -42,5 +42,3 @@ This infrastructure engineering suite serves as a direct portfolio demonstration
 | **Statistical Modeling & Causal Inference** | Integrated advanced data science techniques into standard core business intelligence, successfully executing hypothesis validation checks ($p$-value evaluation) to guide corporate process optimization. |
 | **Data Governance & Integrity Management** | Implemented strict exception handling protocols, mapping unpopulated dimensions to standardized tracking keys (`SYSTEM_NULL_TRIGGER`) and capturing logical sequencing breaks via strict boolean validation flags. |
 | **Business Intelligence Translation** | Built interactive, multi-page web dashboard commands structured around target executive user personas, translating complex numbers into distinct, actionable data stories. |
-
-```
