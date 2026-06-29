@@ -1,0 +1,14 @@
+# Local Virtual Environments
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Local Data Storage & Backup Arrays (Prevents tracking massive CSV layers)
+data/*.csv
+backup_exports/
+.pytest_cache/
+
+# Cloud Tool Artifacts & OS Cache Files
+.DS_Store
+.gcloud/
