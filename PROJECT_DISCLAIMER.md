@@ -1,0 +1,3 @@
+PROACTIVE DISCLAIMER & GROUNDING NOTICE
+
+Disclaimer: This portfolio project is a synthetic, technical simulation designed exclusively to demonstrate engineering, data modeling, automated testing, and product-centric analytics competence for the Data Analyst, People Products role at Tesla, Inc. All data, candidate records, requisition fields, operational metrics, and financial impact vectors are programmatically simulated, synthetic abstractions. This project does not use, expose, or reference any proprietary, confidential, or real-world internal operational data, corporate networks, or systemic logic belonging to Tesla, Inc. or its affiliates.
