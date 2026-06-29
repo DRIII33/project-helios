@@ -1,5 +1,3 @@
-### File 1: `project-helios/docs/PRODUCT_REQUIREMENTS_DOCUMENT.md`
-
 # PRODUCT REQUIREMENTS DOCUMENT (PRD)
 
 ## Product Name: Project Helios Talent Pipeline & Governance Product
