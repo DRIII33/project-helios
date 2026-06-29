@@ -1,14 +1,15 @@
 # Project Helios: Trusted Recruiting Intelligence Platform
+---
 
-**Target Organization Context:** People Analytics Architecture
+##### **Target Organization Context:** People Analytics Architecture
 
-**Core Processing Stack:** Python, SQL, Google BigQuery Sandbox, Looker Studio, PyTest, Git
+##### **Core Processing Stack:** Python, SQL, Google BigQuery Sandbox, Looker Studio, PyTest, Git
 
-**Engineering Tier Class:** Production Data Infrastructure / Corporate Portfolio Framework
+##### **Engineering Tier Class:** Production Data Infrastructure / Corporate Portfolio Framework
 
-**Data Analyst:** Daniel Rodriguez III
+##### **Data Analyst:** Daniel Rodriguez III
 
-**Date:** June 28, 2026
+##### **Date:** June 28, 2026
 
 ---
 
