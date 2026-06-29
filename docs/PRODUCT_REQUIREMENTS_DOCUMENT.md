@@ -117,8 +117,6 @@ Without clean data pipelines, downstream "People Products" produced highly disto
 * **Predictive Pipeline Aging:** Integrate machine learning classification models to predict a candidate's likelihood to withdraw based on localized time-in-stage anomalies.
 * **Automated ATS Webhook Synchronization:** Transition from static data batch uploads to automated, real-time API webhook streaming directly into secure cloud cloud infrastructure.
 
-```
-
 ---
 
 ### File 2: `project-helios/docs/DATA_DICTIONARY.md`
