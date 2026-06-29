@@ -209,6 +209,3 @@ The analytics warehouse shifts from raw operational inputs to a clean, highly st
 * `recruiting_raw.raw_candidates`: Unified candidate directory mapping applicants to recruiters and job listings.
 * `recruiting_mart.dim_requisition`: Clustered dimension table housing active hiring goals across engineering divisions.
 * `recruiting_mart.fact_candidate_pipeline`: Main fact table tracking time-in-stage metrics, historic milestones, and pipeline health indicators.
-
-```
----
