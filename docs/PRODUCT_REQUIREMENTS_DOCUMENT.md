@@ -211,5 +211,4 @@ The analytics warehouse shifts from raw operational inputs to a clean, highly st
 * `recruiting_mart.fact_candidate_pipeline`: Main fact table tracking time-in-stage metrics, historic milestones, and pipeline health indicators.
 
 ```
-
-```
+---
