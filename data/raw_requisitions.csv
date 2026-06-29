@@ -1,0 +1,51 @@
+req_id,hiring_manager,department,location,priority,planned_hires,requisition_open_date
+REQ_2000,Manager Alpha,Manufacturing Engineering,"Berlin, Germany",P0 - Critical,2,2025-06-13
+REQ_2001,Manager Alpha,Tesla Energy,"Austin, TX",P2 - Medium,4,2025-02-05
+REQ_2002,Manager Alpha,Manufacturing Engineering,"Fremont, CA",P0 - Critical,5,2025-01-09
+REQ_2003,Manager Alpha,Supply Chain,"Fremont, CA",P2 - Medium,5,2025-06-04
+REQ_2004,Manager Beta,Robotics,"Berlin, Germany",P0 - Critical,2,2025-04-18
+REQ_2005,Manager Delta,Artificial Intelligence,"Berlin, Germany",P0 - Critical,2,2025-06-28
+REQ_2006,Manager Alpha,Manufacturing Engineering,"Shanghai, China",P0 - Critical,3,2025-03-28
+REQ_2007,Manager Gamma,Manufacturing Engineering,"Shanghai, China",P2 - Medium,1,2025-03-30
+REQ_2008,Manager Alpha,Supply Chain,"Berlin, Germany",P2 - Medium,5,2025-04-07
+REQ_2009,Manager Beta,Tesla Energy,"Austin, TX",P0 - Critical,2,2025-04-03
+REQ_2010,Manager Alpha,Software Engineering,"Austin, TX",P1 - High,3,2025-03-16
+REQ_2011,Manager Gamma,Software Engineering,"Berlin, Germany",P1 - High,2,2025-04-27
+REQ_2012,Manager Gamma,Tesla Energy,"Austin, TX",P2 - Medium,2,2025-06-21
+REQ_2013,Manager Beta,Software Engineering,"Shanghai, China",P1 - High,3,2025-05-17
+REQ_2014,Manager Beta,Tesla Energy,"Berlin, Germany",P0 - Critical,2,2025-06-13
+REQ_2015,Manager Gamma,Robotics,"Berlin, Germany",P0 - Critical,2,2025-01-09
+REQ_2016,Manager Gamma,Software Engineering,"Shanghai, China",P1 - High,4,2025-05-26
+REQ_2017,Manager Gamma,Software Engineering,"Fremont, CA",P2 - Medium,5,2025-02-06
+REQ_2018,Manager Gamma,Tesla Energy,"Shanghai, China",P2 - Medium,4,2025-05-18
+REQ_2019,Manager Beta,Software Engineering,"Shanghai, China",P0 - Critical,1,2025-04-03
+REQ_2020,Manager Beta,Tesla Energy,"Fremont, CA",P2 - Medium,4,2025-01-29
+REQ_2021,Manager Alpha,Robotics,"Shanghai, China",P2 - Medium,4,2025-06-02
+REQ_2022,Manager Gamma,Supply Chain,"Austin, TX",P2 - Medium,1,2025-05-16
+REQ_2023,Manager Gamma,Tesla Energy,"Berlin, Germany",P0 - Critical,3,2025-06-24
+REQ_2024,Manager Beta,Robotics,"Austin, TX",P2 - Medium,3,2025-04-22
+REQ_2025,Manager Beta,Supply Chain,"Austin, TX",P2 - Medium,3,2025-05-09
+REQ_2026,Manager Beta,Software Engineering,"Berlin, Germany",P0 - Critical,5,2025-06-13
+REQ_2027,Manager Alpha,Supply Chain,"Berlin, Germany",P1 - High,1,2025-05-16
+REQ_2028,Manager Gamma,Artificial Intelligence,"Fremont, CA",P0 - Critical,2,2025-01-29
+REQ_2029,Manager Alpha,Manufacturing Engineering,"Shanghai, China",P0 - Critical,5,2025-05-26
+REQ_2030,Manager Beta,Tesla Energy,"Shanghai, China",P2 - Medium,2,2025-02-02
+REQ_2031,Manager Delta,Software Engineering,"Fremont, CA",P2 - Medium,3,2025-03-09
+REQ_2032,Manager Gamma,Robotics,"Shanghai, China",P0 - Critical,2,2025-04-13
+REQ_2033,Manager Alpha,Artificial Intelligence,"Austin, TX",P2 - Medium,5,2025-02-27
+REQ_2034,Manager Beta,Manufacturing Engineering,"Austin, TX",P2 - Medium,1,2025-02-28
+REQ_2035,Manager Alpha,Manufacturing Engineering,"Berlin, Germany",P0 - Critical,5,2025-02-28
+REQ_2036,Manager Gamma,Tesla Energy,"Shanghai, China",P0 - Critical,5,2025-03-02
+REQ_2037,Manager Delta,Software Engineering,"Shanghai, China",P1 - High,2,2025-02-03
+REQ_2038,Manager Alpha,Tesla Energy,"Shanghai, China",P1 - High,4,2025-01-25
+REQ_2039,Manager Delta,Tesla Energy,"Austin, TX",P2 - Medium,1,2025-04-16
+REQ_2040,Manager Delta,Tesla Energy,"Berlin, Germany",P0 - Critical,2,2025-01-16
+REQ_2041,Manager Beta,Supply Chain,"Shanghai, China",P0 - Critical,4,2025-02-19
+REQ_2042,Manager Gamma,Robotics,"Fremont, CA",P0 - Critical,4,2025-02-16
+REQ_2043,Manager Alpha,Manufacturing Engineering,"Austin, TX",P0 - Critical,2,2025-05-21
+REQ_2044,Manager Delta,Robotics,"Shanghai, China",P0 - Critical,4,2025-02-12
+REQ_2045,Manager Beta,Robotics,"Austin, TX",P1 - High,3,2025-01-16
+REQ_2046,Manager Gamma,Robotics,"Shanghai, China",P0 - Critical,2,2025-04-27
+REQ_2047,Manager Beta,Manufacturing Engineering,"Austin, TX",P2 - Medium,3,2025-03-17
+REQ_2048,Manager Alpha,Supply Chain,"Shanghai, China",P2 - Medium,5,2025-01-15
+REQ_2049,Manager Alpha,Supply Chain,"Austin, TX",P0 - Critical,1,2025-02-10
